@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VIISwiftHelpers_Example' do
+  pod 'VIISwiftHelpers', :path => '../'
+
+  target 'VIISwiftHelpers_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
