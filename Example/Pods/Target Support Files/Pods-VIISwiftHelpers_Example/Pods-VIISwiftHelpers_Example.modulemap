@@ -1,0 +1,6 @@
+framework module Pods_VIISwiftHelpers_Example {
+  umbrella header "Pods-VIISwiftHelpers_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

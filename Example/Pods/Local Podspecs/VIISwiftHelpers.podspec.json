@@ -1,0 +1,22 @@
+{
+  "name": "VIISwiftHelpers",
+  "version": "0.1.0",
+  "summary": "A short description of VIISwiftHelpers.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mahmood Alhaddad/VIISwiftHelpers",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mahmood Alhaddad": "mahmood.alhaddad@viitech.net"
+  },
+  "source": {
+    "git": "https://github.com/Mahmood Alhaddad/VIISwiftHelpers.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VIISwiftHelpers/Classes/**/*"
+}

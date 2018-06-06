@@ -1,0 +1,16 @@
+PODS:
+  - VIISwiftHelpers (0.1.0)
+
+DEPENDENCIES:
+  - VIISwiftHelpers (from `../`)
+
+EXTERNAL SOURCES:
+  VIISwiftHelpers:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VIISwiftHelpers: b1c461327a9957f1f26d4fcc820b70bd7f5c643e
+
+PODFILE CHECKSUM: a88ded1e18f31c5dcb80863f0ff025ea10e01494
+
+COCOAPODS: 1.5.3
